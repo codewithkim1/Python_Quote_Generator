@@ -15,7 +15,7 @@ Run the 'quote_generator.py' file using Python.
 The program will display a random quote from the collection.
 If you want to add a new quote to the collection, enter 'y' when prompted and then enter the new quote.
 
-<pre><code>```
+```
 $ python 'quote_generator.py'
 The only way to do great work is to love what you do.
 
@@ -25,7 +25,7 @@ New quote added successfully!
 
 $ python quote_generator.py
 Be the change you wish to see in the world.
-```</code></pre>
+```
 
 ## Contributing
 If you want to contribute to this project, you can fork this repository and submit a pull request with your changes.
